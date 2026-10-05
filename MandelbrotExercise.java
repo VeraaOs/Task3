@@ -5,12 +5,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-/*
-ДЗ 3. Множество Мандельброта
-Распараллелить вычисление множества Мандельброта.
-Вывод картинки опционален (в данном решении картинка не выводится, 
-только производится расчёт итераций для каждого пикселя).
-*/
 public class MandelbrotExercise {
 
     public static void main(String[] args) throws Exception {
